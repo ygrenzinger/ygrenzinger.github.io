@@ -41,7 +41,3 @@ Nos organisations sont en train de vivre une crise existentielle majeure. Pour p
 # Apprendre à apprendre.
 
 Apprendre est la compétence essentielle à connaître au 21ème siècle. Accro au MOOC (une trentaine de certifications en 2 ans) et développant un PersonalMBA, je vous propose de découvrir et discuter les moyens d’apprendre rapidement aussi bien au niveau personnel, de votre produit/startup et même de votre organisation.
-
-# Développer le bon produit avec le Lean Canvas.
-
-A une époque où tout business peut être rapidement concurrencé par une startup, il faut savoir créer le bon produit. C’est la où les principes et les outils de Lean Startup (mais aussi Design Thinking ou encore de l'effectuation) viennent nous aider. Je propose une intro rapide et un atelier purement pratique autour de Lean Canvas que j'ai eu l'occasion de pratiquer de nombreuses fois en tant qu'Advisor Lean Startup.
