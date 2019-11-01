@@ -4,7 +4,7 @@ title: BBL
 permalink: /BBL/
 ---
 
-Une liste de BrownBagLunch possible chez vous entre 12h et 14h sur Paris et banlieu proche
+Une liste de BrownBagLunch possible chez vous entre 12h et 14h sur Paris et banlieue proche
 
 # De scrum au flux.
 
@@ -24,7 +24,7 @@ A une époque où tout business peut être rapidement concurrencé par une start
 
 # Continuous Delivery & DevOps.
 
-J’organise régulièrement des soirées autour du Continuous Delivery. C’est une pratique qu’il devient indispensable de maitriser face à la concurrence mais cette pratique demande un très bon niveau technique ainsi qu’un management moderne. Le but de ce BBL est de présenter comment mettre en place cette pratique et quels sont les éléments à considérer pour y arriver. Nous y parlerons de Continuous Integration,  Continuous Delivery, Continuous Deployment ou encore Devops.
+J’organise régulièrement des soirées autour du Continuous Delivery. C’est une pratique qu’il devient indispensable de maîtriser face à la concurrence mais cette pratique demande un très bon niveau technique ainsi qu’un management moderne. Le but de ce BBL est de présenter comment mettre en place cette pratique et quels sont les éléments à considérer pour y arriver. Nous y parlerons de Continuous Integration,  Continuous Delivery, Continuous Deployment ou encore Devops.
 
 # Du monolithe aux micro services depuis les tranchées.
 
