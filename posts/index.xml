@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Yannick Grenzinger</title>
+    <link>https://ygrenzinger.github.io/posts/</link>
+    <description>Recent content in Posts on Yannick Grenzinger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 02 Jan 2022 15:15:01 +0100</lastBuildDate><atom:link href="https://ygrenzinger.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Remote work forced or choosen</title>
+      <link>https://ygrenzinger.github.io/posts/remote-work/</link>
+      <pubDate>Sun, 02 Jan 2022 15:15:01 +0100</pubDate>
+      
+      <guid>https://ygrenzinger.github.io/posts/remote-work/</guid>
+      <description>Test</description>
+    </item>
+    
+    <item>
+      <title>Summary of &#39;Clean Architecture&#39; by Robert C. Martin</title>
+      <link>https://ygrenzinger.github.io/posts/clean-architecture-summary/</link>
+      <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ygrenzinger.github.io/posts/clean-architecture-summary/</guid>
+      <description>Uncle Bob, the well known author of Clean Code, is coming back to us with a new book called Clean Architecture which wants to take a larger view on how to create software.
+Even if Clean Code is one of the major book around OOP and code design (mainly by presenting the SOLID principles), I was not totally impressed by the book.
+Clean Architecture leaves me with the same feeling, even if it&amp;rsquo;s pushing the development world to do better, has some good stories and present robust principles to build software.</description>
+    </item>
+    
+    <item>
+      <title>Summary of &#39;Words are windows, Introduction to nonviolent communication&#39; by Marshall Rosenberg</title>
+      <link>https://ygrenzinger.github.io/posts/non-violent-communication-summary/</link>
+      <pubDate>Sun, 24 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ygrenzinger.github.io/posts/non-violent-communication-summary/</guid>
+      <description>&amp;ldquo;Words are windows&amp;rdquo; is an introduction to non violent communication (abbreviated as NVC). Marshall Rosenberg presents in this book the process that allows us to communicate more serenely with others as well as with ourselves. This mode of communication allows us to become more and more caring, authentic, and empathic with others. It can therefore be used in all interactions of everyday life: as a couple, with our children, at work &amp;hellip; NVC is proving to be a very effective way to manage conflicts, and also to better identify our own needs.</description>
+    </item>
+    
+  </channel>
+</rss>

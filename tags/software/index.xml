@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>software on Yannick Grenzinger</title>
+    <link>https://ygrenzinger.github.io/tags/software/</link>
+    <description>Recent content in software on Yannick Grenzinger</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 31 Dec 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://ygrenzinger.github.io/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Summary of &#39;Clean Architecture&#39; by Robert C. Martin</title>
+      <link>https://ygrenzinger.github.io/posts/clean-architecture-summary/</link>
+      <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ygrenzinger.github.io/posts/clean-architecture-summary/</guid>
+      <description>Uncle Bob, the well known author of Clean Code, is coming back to us with a new book called Clean Architecture which wants to take a larger view on how to create software.
+Even if Clean Code is one of the major book around OOP and code design (mainly by presenting the SOLID principles), I was not totally impressed by the book.
+Clean Architecture leaves me with the same feeling, even if it&amp;rsquo;s pushing the development world to do better, has some good stories and present robust principles to build software.</description>
+    </item>
+    
+  </channel>
+</rss>
