@@ -1,7 +1,7 @@
 ---
 title: "Summary of 'Clean Architecture' by Robert C. Martin"
 date: "2017-12-31"
-tags: ["summary","architecture","software"]
+tags: ["book summary","architecture","code"]
 draft: false
 ---
 

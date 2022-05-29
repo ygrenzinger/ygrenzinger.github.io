@@ -1,7 +1,7 @@
 ---
 title:  "Summary of 'Words are windows, Introduction to nonviolent communication' by Marshall Rosenberg"
 date:   "2017-12-24"
-tags: ['summary', 'psychology']
+tags: ["book summary", "psychology"]
 ---
 
 
