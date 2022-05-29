@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>summary on Yannick Grenzinger</title>
-    <link>https://ygrenzinger.github.io/tags/summary/</link>
-    <description>Recent content in summary on Yannick Grenzinger</description>
+    <title>book summary on Yannick Grenzinger</title>
+    <link>https://ygrenzinger.github.io/tags/book-summary/</link>
+    <description>Recent content in book summary on Yannick Grenzinger</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 31 Dec 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://ygrenzinger.github.io/tags/summary/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Dec 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://ygrenzinger.github.io/tags/book-summary/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Summary of &#39;Clean Architecture&#39; by Robert C. Martin</title>
       <link>https://ygrenzinger.github.io/posts/clean-architecture-summary/</link>
