@@ -1,6 +1,30 @@
 ---
-title: "Conferences"
+title: "About"
 ---
+
+## symmathecist
+
+Sometimes coach, mentor, manager but always software engineer.
+I am passionate about the [symmathesy](https://jessitron.com/2018/10/25/symmathecist-n/) of building software which is a learning system made of learning parts.
+
+## Continuous Learner
+
+After a dual degree of engineering school and Master of Science, I have mainly worked as a consultant which allowed me to learn a lot and see different projects and contexts.
+
+I developed knowledge and, even, expertise in
+- software design: clean and performant architecture, efficient testing, Domain Driven Design methodology and DevOps (I am even Kubernetes Application Developer certified :D )
+- programming languages from Object Oriented to Functional paradigms (See my long list of experiments with different languages on [my Github repo](https://github.com/ygrenzinger))
+- flow methodology (using Kanban and Lean) to deliver value in production in a continuous way keeping up with the pace of business demand.
+- lean product management, user experience and design thinking
+- team management from tech lead to engineering manager, helping the team and individual grow and reach their objectives. One of my best inspirations for my personal style of management is intent based leadership.
+
+I have also done a lot of online courses at the golden age of MOOC. See my [licences & certifications section on linkedin](https://www.linkedin.com/in/yannickgrenzinger/)
+
+## Love to share
+
+I am a co-organizer of FlowCon France conference and Paris Continuous Delivery meetup.
+
+I love to share so I am a regular speaker to tech / agile confs and also long time "Brow Bag lunch" speaker :)
 
 Most of this public activity is in French 🙂
 
