@@ -5,16 +5,7 @@
     <link>https://ygrenzinger.github.io/</link>
     <description>Recent content on Yannick Grenzinger</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 02 Jan 2022 15:15:01 +0100</lastBuildDate><atom:link href="https://ygrenzinger.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Remote work forced or choosen</title>
-      <link>https://ygrenzinger.github.io/posts/remote-work/</link>
-      <pubDate>Sun, 02 Jan 2022 15:15:01 +0100</pubDate>
-      
-      <guid>https://ygrenzinger.github.io/posts/remote-work/</guid>
-      <description>Test</description>
-    </item>
-    
+    <lastBuildDate>Sun, 31 Dec 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://ygrenzinger.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Summary of &#39;Clean Architecture&#39; by Robert C. Martin</title>
       <link>https://ygrenzinger.github.io/posts/clean-architecture-summary/</link>
@@ -35,17 +26,19 @@ Clean Architecture leaves me with the same feeling, even if it&amp;rsquo;s pushi
       <description>&amp;ldquo;Words are windows&amp;rdquo; is an introduction to non violent communication (abbreviated as NVC). Marshall Rosenberg presents in this book the process that allows us to communicate more serenely with others as well as with ourselves. This mode of communication allows us to become more and more caring, authentic, and empathic with others. It can therefore be used in all interactions of everyday life: as a couple, with our children, at work &amp;hellip; NVC is proving to be a very effective way to manage conflicts, and also to better identify our own needs.</description>
     </item>
     
-    
-    
     <item>
-      <title>Conferences</title>
-      <link>https://ygrenzinger.github.io/conferences/</link>
+      <title>About</title>
+      <link>https://ygrenzinger.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ygrenzinger.github.io/conferences/</guid>
-      <description>Most of this public activity is in French 🙂
-Talks  A long (3h) Devoxx university with my colleague Maxime Gelle around test from Unit Test to Testing (in) Production but also BDD, Contract Testing, Property Based testing &amp;hellip; Tour d&amp;rsquo;horizon des tests dans nos applications - Devoxx France - 2021 How to use DDD to fight back functional debt (aka the domain is lost into the legacy implementation) Guerilla DDD - DDD Meetup - 2018 What you need to know before moving from monoolith to Microservices Du monolithe aux micro services depuis les tranchées - Codeurs en Seine - 2017 Making developers aware of psychology and cognitive science thanks to the thesis of two-speed thinking, cognitive biases and their impact on our ability to judge.</description>
+      <guid>https://ygrenzinger.github.io/about/</guid>
+      <description>symmathecist Sometimes coach, mentor, manager but always software engineer. I am passionate about the symmathesy of building software which is a learning system made of learning parts.
+Continuous Learner After a dual degree of engineering school and Master of Science, I have mainly worked as a consultant which allowed me to learn a lot and see different projects and contexts.
+I developed knowledge and, even, expertise in
+ software design: clean and performant architecture, efficient testing, Domain Driven Design methodology and DevOps (I am even Kubernetes Application Developer certified :D ) programming languages from Object Oriented to Functional paradigms (See my long list of experiments with different languages on my Github repo) flow methodology (using Kanban and Lean) to deliver value in production in a continuous way keeping up with the pace of business demand.</description>
     </item>
+    
+    
     
     
     
